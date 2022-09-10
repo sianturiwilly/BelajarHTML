@@ -1,0 +1,21 @@
+body {
+    background-color: #3498db;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.kotak {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
